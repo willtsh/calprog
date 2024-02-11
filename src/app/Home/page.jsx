@@ -5,7 +5,7 @@ import ResourceBar from "../../Components/ResourceBar";
 
 export default function Page() {
     return (
-        <div>
+        <div classname="container_home">
             <Navbar />
             <ResourceBar />
         </div>

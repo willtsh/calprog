@@ -14,3 +14,7 @@ nav {
     padding: 0 50px;
     position: relative;
 }
+
+.tabs li a:hover {
+    color: black;
+}

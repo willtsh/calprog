@@ -7,10 +7,10 @@ function Navbar () {
         <nav>
             <div>
                 <ul className="tabs">
-                    <li><a>Vertical Push</a></li>
-                    <li><a>Vertical Pull</a></li>
-                    <li><a>Horizontal Push</a></li>
-                    <li><a>Horizontal Pull</a></li>
+                    <li><a href="./Home">Vertical Push</a></li>
+                    <li><a href="./Home">Vertical Pull</a></li>
+                    <li><a href="./Home">Horizontal Push</a></li>
+                    <li><a href="./Home">Horizontal Pull</a></li>
                 </ul>
             </div>
             <div id="account_options">
