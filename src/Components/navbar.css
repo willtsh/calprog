@@ -1,8 +1,9 @@
 nav {
     background: rgba(28, 107, 153, 0.575);
-    height: 100px;
     display: flex;
-    border: yellow;
+    align-items: flex-end;
+    justify-content: space-between;
+    border: white;
     border-style: solid;
 }
 
@@ -16,7 +17,7 @@ nav {
 .tabs li {
     display: flex;
     justify-content: space-evenly;
-    border: white;
+    border: cyan;
     border-style: solid;
 }
 
