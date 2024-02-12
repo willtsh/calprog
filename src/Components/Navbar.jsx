@@ -13,8 +13,12 @@ function Navbar () {
                     <li><a href="./Home">Horizontal Pull</a></li>
                 </ul>
             </div>
-            <div id="account_options">
-
+            <div>
+                <ul className="acc_options">
+                    <li>Create Account</li>
+                    <li>Log in</li>
+                    <li>Sign out</li>
+                </ul>
             </div>
         </nav>
     )

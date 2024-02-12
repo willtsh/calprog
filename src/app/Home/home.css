@@ -1,5 +1,6 @@
 .container_home {
     background: none;
+    display: flex;
   }
   
   .container_home::before {
@@ -14,5 +15,6 @@
     background-size: cover;
     filter: blur(9px);
   }
+
   
   
