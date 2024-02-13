@@ -15,7 +15,6 @@ function Navbar () {
             </div>
             <div>
                 <ul className="acc_options">
-                    <li>Create Account</li>
                     <li>Log in</li>
                     <li>Sign out</li>
                 </ul>

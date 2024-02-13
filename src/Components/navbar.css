@@ -1,24 +1,22 @@
 nav {
     background: rgba(28, 107, 153, 0.575);
     display: flex;
+    width: 100%;
     align-items: flex-end;
     justify-content: space-between;
-    border: white;
+    border: rgba(255, 255, 255, 0.459);
     border-style: solid;
 }
 
 .tabs {
     display: flex;
-    font-size: 1.3rem;
-    border: red;
-    border-style: dotted;
+    font-size: 1.35rem;
+    padding-left: 100px;
 }
 
 .tabs li {
     display: flex;
-    justify-content: space-evenly;
-    border: cyan;
-    border-style: solid;
+    padding: 0px 90px;
 }
 
 .tabs li a:hover {
@@ -28,7 +26,4 @@ nav {
 .acc_options {
     display: flex;
     flex-direction: column;
-
-    border: green;
-    border-style: dashed;
 }
