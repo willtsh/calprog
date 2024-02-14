@@ -19,10 +19,6 @@ nav {
     padding: 0px 90px;
 }
 
-.tabs li a:hover {
-    color: black;
-}
-
 .acc_options {
     display: flex;
     flex-direction: column;
