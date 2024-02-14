@@ -9,6 +9,7 @@ function Navbar () {
         <nav>
             <div>
                 <ul className="tabs">
+                    <li><a href="/Home">Home</a></li>
                     <li><button type="button" onClick={() => router.push('/vpush')}>Vertical Push</button></li>
                     <li><button type="button" onClick={() => router.push('/vpull')}>Vertical Pull</button></li>
                     <li><button type="button" onClick={() => router.push('/hpush')}>Horizontal Push</button></li>
