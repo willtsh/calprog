@@ -13,7 +13,7 @@ function Navbar () {
                     <li><button type="button" onClick={() => router.push('/vpush')}>Vertical Push</button></li>
                     <li><button type="button" onClick={() => router.push('/vpull')}>Vertical Pull</button></li>
                     <li><button type="button" onClick={() => router.push('/hpush')}>Horizontal Push</button></li>
-                    <li><button type="button" onClick={() => router.push('/vpull')}>Horizontal Pull</button></li>
+                    <li><button type="button" onClick={() => router.push('/hpull')}>Horizontal Pull</button></li>
                 </ul>
             </div>
             <div>

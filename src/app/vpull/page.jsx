@@ -1,11 +1,11 @@
-import "./vpush.css";
+import "./vpull.css";
 import Navbar from "../../Components/Navbar";
 
 export default function Page() {
     return (
         <div>
             <Navbar />
-            <h1>Vertical Push</h1>
+            <h1>Vertical Pull</h1>
         </div>
     )
 }
